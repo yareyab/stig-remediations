@@ -6,8 +6,4 @@ Scripts that remediate DISA STIG findings. Each script fixes one STIG ID and inc
 
 `.\<script>.ps1`
 
-**Linux**: run with sudo
-
-`sudo ./<script>.sh`
-
 These scripts change system configurations. Test in a VM before applying to production systems.
