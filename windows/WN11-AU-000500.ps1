@@ -15,10 +15,10 @@
     Documentation   : https://stigaview.com/products/win11/v2r8/WN11-AU-000500/
 
 .TESTED ON
-    Date(s) Tested  : 2026-09-11
-    Tested By       : Eray Bay
-    Systems Tested  : Microsoft Windows 11 Pro 10.0.26200
-    PowerShell Ver. : 5.1.26100.9444
+    Date(s) Tested  : 
+    Tested By       : 
+    Systems Tested  : 
+    PowerShell Ver. : 
 
 .USAGE
     PS C:\> .\WN11-AU-000500.ps1
